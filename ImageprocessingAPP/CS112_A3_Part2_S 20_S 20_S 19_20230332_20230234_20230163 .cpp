@@ -7,9 +7,9 @@
     E-Mails: mohamedboka893@gmail.com
             zodawael54@gmail.com
             azzkandeel@gmail.com
-    IDs:20230332 filter (5)
-        20230163 filter (4)
-        20230234 fliter (1,2,3,6)
+    IDs:20230332 filter (4,8,11,13,16)
+        20230163 filter (5,7,10.15,17)
+        20230234 fliter (1,2,3,6,12)
     */
     #include <iostream>
     #include "Image_Class.h"
