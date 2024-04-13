@@ -71,7 +71,7 @@ void ApplyColorDistortion(Image& image, int distortionLevel) {
         int choice;
 
         cout << "1. Grey\n2. Black and White\n3. Invert\n4. Merge\n5. Flip Image\n6.cloackwise rotation\n7. brightness filter\n";
-        cout <<"8. crop\n10.frame filter\n11.resize filter\n12.blur\n13. warm filter\n15.Tv filter\n16. purple filter\n17. infrared photography\n";
+        cout <<"8. crop\n10.edge detection filter\n11.resize filter\n12.blur\n13. warm filter\n15.Tv filter\n16. purple filter\n17. infrared photography\n";
         cout << "Enter your choice: ";
         cin >> choice;
         cin.ignore();
